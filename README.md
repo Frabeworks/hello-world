@@ -1,7 +1,7 @@
 # hello-world
 printing hello world
 
-my name is ding
-my age is dong
-my feet are ping
-i like to pong
+my name is i
+my age is i
+my feet are pi
+i like to pi
